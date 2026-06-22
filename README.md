@@ -13,9 +13,14 @@ A lightweight, automated Python tool designed to research a company's public tra
 - Adjusted Close
 - Volume
 
+## Output Preview
+<img width="1364" height="702" alt="image" src="https://github.com/user-attachments/assets/da969f61-f506-4835-9f9d-24be81042123" />
+
+
 ## Setup & Installation
 
 1. Clone or download this repository to your local machine.
 2. Install the required Python dependencies:
    ```bash
    pip install yfinance pandas openpyxl
+
